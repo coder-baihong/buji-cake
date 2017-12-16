@@ -1,0 +1,167 @@
+body{min-width: 1000px;}
+.header{width: 100%;height: 80px;/*background: pink;*/position: relative;background: #ffffff;}
+.header_top{width: 100%;height: 38px;border-bottom: 1px dashed #e8d7cb;}
+.header_zhong{width: 1100px;height: 80px;margin: 0 auto;position: absolute;top: 0px;left: 0px;right: 0px;bottom: 0px;}
+.header_zhong_img1{width: 196px;height: 57px;float: left;margin-top:12px;margin-left: -6px;cursor: pointer;}
+.header_zhong_top{width:910px;height: 38px;float: right;}
+.header_zhong_bottom{width: 910px;height: 41px;float: right;margin-top: 1px;line-height: 41px;}
+.header_zhong_top_div1{margin-left: 20px; cursor: pointer; overflow: hidden;position: relative; width: 670px; float: left;font-size: 12px;color: #ff0404;text-align: center;line-height: 38px;height: 38px;}
+.header_zhong_top_div2 ul li{float: left;}
+.header_zhong_top_div2 ul li span{padding: 0px 7px 0 2px;color: #d1b19a;}
+.header_zhong_top_div2 ul li a{font-size: 12px;color: #8c6a51;}
+.header_zhong_top_div2 ul li a:hover{color: #463121;}
+.header_zhong_top_div2{height: 38px;line-height: 38px;}
+.header_zhong_top_div2 ul {float: left;margin-left: 53px;}
+.car{width: 33px;height: 16px;float: right;cursor: pointer;}
+.car span{display: inline-block;font-size: 13px;color: #8c6a51;}
+.car img{margin: -6px 0 0 0;}
+
+.header_zhong_bottom_ul1 li{float: left;}
+.header_zhong_bottom_ul1 li a{color: #8c6a51;font-size: 14px;padding: 2px 19px 4px 20px;}
+.header_zhong_bottom_ul1 li a:hover{background: #8c6a51;border-radius: 4px;color: white;}
+.header_zhong_bottom_ul1 li .a_active{background: #8c6a51;border-radius: 4px;color: white;}
+.ma{margin-left: 21px;}
+.ma_1{margin-left: 13px;}
+.ma_2{margin-left: 16px;}
+.header_zhong_bottom_div1 {float: right;}
+.header_zhong_bottom_div1 span{font-size: 12px;color: #8c6a51;}
+.header_zhong_bottom_div1 img{margin-top: -4px;}
+.header_zhong_top_div1_span1{width: 600px;height:38px;display: inline-block;position: absolute;left: 0px;}
+
+.banner{height:696px;width: 100%;background: url(../img/bnner.jpg) no-repeat;background-position: center center;
+background-size: cover;}
+
+.buji_fenye .swiper-pagination-bullet{width: 70px;height: 7px;background: #8c6a51;border-radius: 0;}
+.buji_fenye .swiper-pagination-bullet:nth-child(2){margin-left: -5px;}
+.buji_fenye .swiper-pagination-bullet-active{width: 70px;height: 2px;background: #b5a594;}
+
+.banner_div1{margin: 390px 0 0 16.5%; display: block; padding-top: 11px; width: 30px;height: 102px;border: 1px solid #724b45;text-align: center;color: #724b45;font-size: 20px;line-height: 23px;}
+
+.bu_nr{width: 100%;background: #ccc;background: url(../img/bg_colo.jpg) repeat;}
+.bu_nr_zhong{width: 1100px;margin: 0 auto;overflow: hidden;}
+.bu_nr_zhong_img1{width: 582px;height: 167px;margin: 60px auto 0 auto;}
+
+.bu_nr_zhong_ul1 li{width: 265px;height: 265px;position: relative;overflow: hidden;}
+.bu_nr_zhong_ul1_div1_zi{font-size: 14px;color: #8c6a51;line-height: 20px;margin-top: 12px;}
+.bu_nr_zhong_ul1_div1{width: 265px;height: 320px;float: left;text-align: center;}
+.left_div{margin-left: 13px;}
+.bu_nr_zhong_ul1_img1{width: 265px;height: 265px;cursor: pointer; }
+.top_div{margin-top: 55px;}
+.xs_div{margin-top: 60px;}
+.btn_BOTTOM{width: 1100px;height: 185px;overflow: hidden;}
+.bu_nr_zhong_ul1{overflow: hidden;}
+.btn_BOTTOM_a1{border-radius: 4px; width: 200px;height: 48px;background: #8c6a51;font-size: 14px;color: #fff;text-align: center;
+line-height: 48px;display:block;margin: 65px auto 0 auto;}
+
+/*http://www.bujicake.com/Home/Shop/index*/
+
+
+.li_hover{width: 265px;height: 58px;position: absolute;bottom: -60px;overflow: hidden;}
+
+/*.li_hover_left span{font-size: 12px;color: #fff;opacity: ;}*/
+.li_hover_left{width: 265px;height: 58px;background: #2e2824;position: absolute;bottom: 0px;opacity:0.5 ;}
+.ziti_butou_left p{color: #fff;font-size: 12px;}
+.ziti_butou_left span{color: #fff;font-size: 12px;display: inline-block;}
+.ziti_butou{position: relative;z-index: 5;}
+.ziti_butou_left img{margin-top: -4px;}
+.ziti_butou_left{margin-top: 5px; float: left;width: 200px;height: 35px;text-align: left;line-height: 19px;margin-left: 12px;}
+.ziti_butou_right{float: right;width: 27px;height: 27px;cursor: pointer;margin: 18px 20px 0 0 ;}
+
+
+
+.shichi{width: 100%;background: #f7f8f8;padding-bottom: 25px;}
+.shichi_zhong{width: 1100px;/*background: pink;*/margin: 0 auto;overflow: hidden;}
+.shichi_zhong_left{float: left;}
+.shichi_zhong_left_img1{width: 550px;height: 529px;}
+.shichi_zhong_right{float: right;width: 525px;height: 518px;}
+.shichi_zhong_left{width: 575px;}
+
+.shichi_zhong_left_wenzi p span{font-size: 18px;color: #7d6856;font-style: italic;
+display: inline-block;width: 50px;}
+.shichi_zhong_left_wenzi p{font-size: 14px;color: #7d6856;margin-left: 77px;line-height: 27px;margin-top: 30px;}
+.shichi_zhong_right_sppan1{font-size: 14px;color: #7d6856;width: 95px;display: inline-block;}
+.shichi_zhong_right input{font-size: 14px; color: #7d6856; width: 381px;height: 48px;background: #cec2b9;border: none;border-radius: 4px;
+padding-left: 17px;}
+.shichi_zhong_right_div1{margin-top: 26px;margin-right: 28px;}
+.shichi_zhong_right_div1_a1{ font-size:14px; display:inline-block; color: #fff;background: #8c6a51;line-height: 48px;width: 398px;height: 48px;text-align: center;border-radius: 4px;}
+
+.shichi_zhong_right_div1 #diji_block{cursor: pointer;/*margin-left:4px;*/float: right;}
+.input_hover{position: relative;}
+.shichi_zhong_right_div1_img1{position: absolute;right: 14px;top: 20px;cursor: pointer;}
+
+.input_hover_block{width: 396px;height: 234px;border: 1px solid #bba89a;background: #cec2b9;
+position: absolute;left: 98px;top: -235px;overflow: hidden;overflow-y: scroll;display: none;z-index: 10;}
+.input_hover_block p{padding-left: 15px; width: 381px;height: 40px;color: #ffffff;line-height: 40px;
+font-size: 14px;cursor: pointer;}
+
+.shichi_zhong_right_div1 .input_hover_block .p_hover_active{background: #8c6a51;}
+
+
+
+input::-webkit-input-placeholder {  
+font-size: 14px;
+color: #7d6856;
+} 
+input::-ms-input-placeholder {  
+font-size: 14px;
+color: #7d6856;
+} 
+input::-o-input-placeholder {  
+font-size: 14px;
+color: #7d6856;
+} 
+input::-moz-placeholder {  
+font-size: 14px;
+color: #7d6856;
+} 
+input::input-placeholder {  
+font-size: 14px;
+color: #7d6856;
+} 
+
+.shichi_zhong_bottom{width: 1100px;float: left;}
+.shichi_zhong_left_wenzi{width: 575px; float: left;}
+.shichi_zhong_right_wenzi{float: right;width: 515px;margin-top: 0px;}
+/*.shichi_zhong_right{background: red;}*/
+
+.shichi_zhong_right_wenzi p span{font-size: 18px;color: #7d6856;font-style: italic;
+display: inline-block;width: 52px;}
+.shichi_zhong_right_wenzi p{font-size: 14px;color: #7d6856;margin-left: 43px;line-height: 27px;margin-top: 30px;}
+
+.tan{width: 100%;height: 260px;background:url(../img/bg_colo.jpg) repeat ;overflow: hidden;border-bottom: 1px solid #d5d5d5;}
+.tan_zhong{width: 1100px;margin: 0 auto;overflow: hidden;}
+
+.tan_zhong_ul1 li{float: left;width: 361px;height: 220px;position: relative;}
+.tan_zhong_ul1{margin-top: 20px;}
+.tan_zhong_ul1_li2{margin-left: 9px;}
+.tan_zhong_ul1_li3{margin-left: 8px;}
+
+.xiangqing a{font-size: 16px;color: #fff;}
+.xiangqing{position: absolute;top: 78px;left: 27px; cursor: pointer;}
+.xiangqing a img{margin-left: 5px;margin-top: -2px;}
+
+.wuxiiu{width: 100%;height: 165px;overflow: hidden;background:url(../img/bg_colo.jpg) repeat ;}
+.wuxiiu_zhong{width: 1100px;height: 165px;margin: 0 auto;}
+.wuxiiu_zhong_ul1 li{float: left;width:274px;height: 93px;margin-top: 44px;border-right: 1px solid #efefef;}
+.wuxiiu_zhong_ul1 li span{font-size: 14px;color: #c2c2c2;display: inline-block;margin: 17px 0 0 18px;}
+.wuxiiu_zhong_ul1 li img{float: left;margin-left: 65px;}
+
+
+/*{border: 1px solid #efefef;height: 93px;}*/
+
+.footer1{width: 100%;height: 210px;overflow: hidden;background: #8c6a51;}
+.footer1_zhong{width: 1100px;height: 210px;margin: 0 auto;overflow: hidden;}
+
+.footer1_zhong_div1{float: left;width: 465px;height: 117px;margin-left:115px;margin-top: 49px;}
+.footer1_zhong_div2{float: left;margin: 49px 0 0 0;}
+.footer1_zhong_div3{float: right;margin-top: 49px;width: 65px;text-align: center;margin-right: 117px;}
+.footer1_zhong_div3 img{}
+.footer1_zhong_div1_img1{float: left;}
+.footer1_zhong_div1 p{font-size: 12px;color: #ffffff;line-height: 22px;float: left;margin-left: 20px;}
+.footer1_zhong_div2 p{font-size: 13px;color: #ffffff;}
+
+.footer1_zhong_div2 p{line-height: 22px;}
+
+
+.footer{width: 100%;height: 47px;background: #6c4c35;}
+.footer_zhong{width: 430px;height: 47px;text-align: center;line-height: 47px;margin: 0 auto;font-size: 12px;color: #fff;}

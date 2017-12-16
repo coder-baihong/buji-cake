@@ -1,0 +1,35 @@
+.aiqing_banner{width: 100%;height: 690px;background: url(../img/aiqing_banner.jpg) no-repeat;background-position: center center;
+background-size: cover;}
+.ai_nr{width: 100%;overflow: hidden;background: #fff;padding-bottom: 80px;border-bottom: 1px solid #d5d5d5;}
+.ai_nr_zhong{width: 1100px;margin: 0 auto;}
+.wuxiiu_aiqing{background: #fff;}
+
+.ai_tan{width: 647px;height: 320px;  background:#FFF;z-index: 50;display:none ;}
+.ai_tan_div1{width: 597px;height: 36px;line-height: 36px;border-bottom: 1px solid #8c6a51;margin: 0 auto;font-size: 18px;
+padding-left: 23px;color: #8c6a51;margin-top: 12px;}
+
+.ai_tan p{font-size: 14px;color: #8c6a51;margin-top: 20px;text-indent: 38px;}
+.ai_tan p span{font-size: 14px;color: #ff0101;}
+
+
+.ai_tan_div2{width: 375px;margin: 0 auto;margin-top: 30px;}
+.ai_tan_div2 div span{font-size: 14px;color: #7d6856;display: inline-block;width:83px}
+.ai_tan_div2 div i{font-style: normal;color: #ff0101;}
+.ai_tan_div2 div input{width: 272px;height: 39px;background: #f6f5f3;border: none;border-radius: 4px;padding-left: 15px;
+color: #8c6a51;font-size: 14px;}
+.ai_tan_div2_div2{margin-top: 15px;}
+.ai_tan_div2_div3{margin-top: 30px;}
+
+
+.ai_tan_div2_div3_a1{display: inline-block; width: 137px;height: 39px;background: #cea689;line-height: 39px;text-align: center;color: #fff;font-size: 14px;
+border-radius: 4px;}
+.ai_tan_div2_div3_a2{display: inline-block; width: 137px;height: 39px;background: #cea689;line-height: 39px;text-align: center;color: #fff;font-size: 14px;
+border-radius: 4px;margin-left: 10px;}
+
+.ai_tan_div2_div3_a:hover{background: #8c6a51;}
+
+.ai_zhe{width: 100%;height: 100%;background: #e5e5e5;position: fixed;top: 0px;left: 0px;opacity: 0.4;z-index: 40;
+display: none;}
+
+
+.ai_tan_div1_span2{float: right;cursor: pointer;margin-top: -1px;margin-right: 2px;}

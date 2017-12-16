@@ -1,0 +1,22 @@
+.wu_banner{width: 100%;height:455px; background: url(../img/yu_banner.jpg) no-repeat;background-size: cover;
+background-position: center center;}
+
+.wu_nr{width: 100%;background: url(../img/bg_colo.jpg) repeat;border-bottom: 1px solid #d5d5d5;padding-bottom: 95px;}
+.wu_nr_zhong{width: 1100px;margin: 0 auto;position: relative;padding-top: 1px;}
+.wu_nr_zhong_img{width:66px;position: absolute;left: -86px;top: -32px;}
+.wu_nr_zhong_img2{width: 750px;height: 269px;margin: 77px 0 0 180px;}
+
+.wu_nr_zhong_img3{width: 284px;height: 456px;position: absolute;top: 75px;right: -240px;}
+.img_bg{position: absolute;top: 255px;left: -230px;width: 1455px;height: 2441px;}
+
+.wu_nr_zhong_img4{width: 569px;height: 233px;margin-top: 135px;margin-left: 107px;}
+
+
+.shuoming1{width: 975px;height: 312px;margin-top: 140px;margin-left: 35px;}
+
+.shuoming1_left{float: left;}
+.shuoming1_right{float: left;}
+.shuoming1_right p{font-size: 14px;color: #8c6a51;line-height: 30px;margin-top: 82px;margin-left: 80px;}
+.shuoming1_left p{font-size: 14px;color: #8c6a51;line-height: 30px;margin-top: 82px;margin-left: 50px;}
+.shuoming2{margin-top: 65px;}
+.shuoming1_right1{float: right;}
